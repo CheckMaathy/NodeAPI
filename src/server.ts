@@ -1,5 +1,7 @@
-import express from 'express'
-import { v4 as uuid } from 'uuid'
+import express from 'express';
+import "./database";
+import { v4 as uuid } from 'uuid';
+
 const app = express();
 
 app.use(express.json());
