@@ -2,11 +2,11 @@
 
 - Administrator Screen (v1)
 
-![admin-screen](https://i.imgur.com/BORvpsm.png)
+![admin-screen](https://i.imgur.com/WV0q6Q8m.png)
 
 - Client Screen (v1)
 
-![client-screen](https://i.imgur.com/BORvpsm.png)
+![client-screen](https://i.imgur.com/YJGLawGm.png)
 
 ### Project Created during the NLW #5 Event
 
